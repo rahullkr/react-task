@@ -1,11 +1,11 @@
 import React from "react";
-import FormSubmission from "./component/form/form";
 
+import EnhancedTable from "./component/table/table";
 
 const App = () => {
   return (
   <>
-  <FormSubmission></FormSubmission>
+  <EnhancedTable></EnhancedTable>
   </>
   );
 };
