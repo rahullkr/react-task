@@ -1,11 +1,10 @@
 import React from "react";
-
-import EnhancedTable from "./component/table/table";
+import Paper from '../src/component/displaytable/displaytable'
 
 const App = () => {
   return (
   <>
-  <EnhancedTable></EnhancedTable>
+  <Paper></Paper>
   </>
   );
 };
